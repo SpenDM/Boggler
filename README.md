@@ -1,5 +1,5 @@
 # Boggler
-Generate a 4x4 board of letters, then like the game Boggle, find all English words within sequences of adjacent letters.
+Generate a 4x4 board of letters, then find all English words within sequences of adjacent letters like the game Boggle.
 
 Example Generated Board:
 

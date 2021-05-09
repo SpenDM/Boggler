@@ -3,11 +3,62 @@ Generate a 4x4 board of letters, then like the game Boggle, find all English wor
 
 Example Generated Board:
 
-![architecture](screenshots/boggle_board_screenshot.png)
+```
+U E F P 
+D H W X 
+L O U Y 
+V L O L 
+```
 
 Words Found for Generated Board:
 
-![architecture](screenshots/boggle_words_found.png)
+```
+DEF
+DEW
+DEWY
+DOLL
+DOW
+DUE
+DUH
+FED
+FEUD
+FEW
+HEW
+HOD
+HOLD
+HOV
+HOW
+HOWE
+HUD
+HUE
+HUED
+HULL
+LODE
+LOLL
+LOO
+LOU
+LOW
+LOWE
+LOWED
+LULL
+LUX
+ODE
+OLD
+OOH
+OOHED
+OWE
+OWED
+UHF
+VOL
+VOW
+VOWED
+WED
+WHO
+WOLD
+WOO
+WOOL
+YOU
+```
 
 
 ## Run 
